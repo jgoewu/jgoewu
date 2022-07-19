@@ -12,6 +12,7 @@ Started off as a Systems Technician, now in Software Development.
     <li>JavaScript ES6+</li>
     <li>TypeScript</li>
     <li>Node.js / Express</li>
+    <li>Nest.js</li>
     <li>Vue.js</li>
     <li>MongoDB</li>
     <li>AWS</li>
