@@ -8,7 +8,8 @@ Started off as a Systems Technician, now in Software Development.
     <li>C#</li>
     <li>C / C++</li>
     <li>.NET Core</li>
-    <li>JavaScript ES6</li>
+    <li>.NET Framework</li>
+    <li>JavaScript ES6+</li>
     <li>TypeScript</li>
     <li>Node.js / Express</li>
     <li>Vue.js</li>
