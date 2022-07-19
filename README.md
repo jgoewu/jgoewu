@@ -1,6 +1,6 @@
 ### Junior Software Developer :coffee:
 
-Started off as a Systems Technician, now in Software Development.
+Systems Technician -> Software Development
 
 <details>
   <summary>Tech Stack</summary>
